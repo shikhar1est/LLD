@@ -98,3 +98,5 @@ public class AfterAbstract {
         app.paint();
     }
 }
+//So basically when I want to buy a car(say BMW) and I don't care about the internal part and stuff I use Factory
+// ...but when I choose to decide what type of tires,engines and stuff I want in BMW...I use Abstract Factory.
